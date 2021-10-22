@@ -60,15 +60,15 @@ For generating the border maps, necessary if border based sampling is utilized, 
 
 ## Trained Models
 
-**Table 1.** Segmentation results of trained networks. Weights are generally available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991) and specific models are linked in Table 1.
+**Table 1.** Segmentation results of trained networks. Weights are generally available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991) and specific models are linked below.
 
 | Model | Dice (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) BraTS 2020 | IoU (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) BraTS 2020 | Dice (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) LiTS | IoU (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) LiTS |  |  |
 | :--- | ---: | ---: | ---: | ---: | :---: | :---: |
 | O-Net [2] | 0.7016 | 0.5615 | 0.6506 | 0.4842 | - | - |
-| OSS-Net A | 0.8592 | 0.7644 | 0.7127 | 0.5579 | [weights BraTS]() | [weights LiTS]() |
-| OSS-Net B | 0.8541 | 0.7572 | 0.7585 | 0.6154 | [weights BraTS]() | [weights LiTS]() |
-| OSS-Net C | 0.8842 | 0.7991 | 0.7616 | 0.6201 | [weights BraTS]() | [weights LiTS]() |
-| OSS-Net D | 0.8774 | 0.7876 | 0.7566 | 0.6150 | [weights BraTS]() | [weights LiTS]() |
+| OSS-Net A | 0.8592 | 0.7644 | 0.7127 | 0.5579 | [weights BraTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_a_bra_ts.pt) | [weights LiTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_a_lits.pt) |
+| OSS-Net B | 0.8541 | 0.7572 | 0.7585 | 0.6154 | [weights BraTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_b_bra_ts.pt) | [weights LiTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_b_lits.pt) |
+| OSS-Net C | 0.8842 | 0.7991 | 0.7616 | 0.6201 | [weights BraTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_c_bra_ts.pt) | [weights LiTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_c_lits.pt) |
+| OSS-Net D | 0.8774 | 0.7876 | 0.7566 | 0.6150 | [weights BraTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_d_bra_ts.pt) | [weights LiTS](https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/2991/oss_net_d_lits.pt) |
 
 ## Usage
 
