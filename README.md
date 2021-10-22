@@ -51,8 +51,7 @@ The code is tested with [PyTorch 1.8.1](https://pytorch.org/get-started/locally/
 ## Data
 
 The BraTS 2020 dataset can be downloaded [here](https://www.med.upenn.edu/cbica/brats2020/registration.html) and the LiTS
-dataset can be downloaded [here](https://competitions.codalab.org/competitions/17094#learn_the_details). Please note for
-downloading both datasets you have to sign in to the respective website.
+dataset can be downloaded [here](https://competitions.codalab.org/competitions/17094#learn_the_details). Please note, that accounts are required to login and downlaod the data on both websites.
 
 The used training and validation split of the BraTS 2020 dataset is available [here](data/bra_ts_split.txt).
 
