@@ -60,7 +60,7 @@ For generating the border maps, necessary if border based sampling is utilized, 
 
 ## Trained Models
 
-**Table 1.** Segmentation results of trained networks.
+**Table 1.** Segmentation results of trained networks. Weights are generally available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991) and specific models are linked in Table 1.
 
 | Model | Dice (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) BraTS 2020 | IoU (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) BraTS 2020 | Dice (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) LiTS | IoU (<img src="https://render.githubusercontent.com/render/math?math=\uparrow">) LiTS |  |  |
 | :--- | ---: | ---: | ---: | ---: | :---: | :---: |
@@ -69,8 +69,6 @@ For generating the border maps, necessary if border based sampling is utilized, 
 | OSS-Net B | 0.8541 | 0.7572 | 0.7585 | 0.6154 | [weights BraTS]() | [weights LiTS]() |
 | OSS-Net C | 0.8842 | 0.7991 | 0.7616 | 0.6201 | [weights BraTS]() | [weights LiTS]() |
 | OSS-Net D | 0.8774 | 0.7876 | 0.7566 | 0.6150 | [weights BraTS]() | [weights LiTS]() |
-
-Weights are available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991).
 
 ## Usage
 
