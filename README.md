@@ -72,6 +72,8 @@ For generating the border maps, necessary if border based sampling is utilized, 
 
 ## Usage
 
+Weights are available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991).
+
 ### Training
 
 To reproduce the results presented in Table 1, we provide multiple sh scripts, which can be found in the [scripts folder](scripts).
