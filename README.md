@@ -70,9 +70,10 @@ For generating the border maps, necessary if border based sampling is utilized, 
 | OSS-Net C | 0.8842 | 0.7991 | 0.7616 | 0.6201 | [weights BraTS]() | [weights LiTS]() |
 | OSS-Net D | 0.8774 | 0.7876 | 0.7566 | 0.6150 | [weights BraTS]() | [weights LiTS]() |
 
+Weights are available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991).
+
 ## Usage
 
-Weights are available [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2991).
 
 ### Training
 
