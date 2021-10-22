@@ -1,0 +1,1 @@
+python -W ignore ../train_oss_net.py --train --test --cuda_devices "0, 1" --epochs 50 --batch_size 8 --network_config "full2" --dataset "BraTS" --dataset_path "BraTS2020" --uniform_sampling

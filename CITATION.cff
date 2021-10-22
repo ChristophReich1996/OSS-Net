@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Code of the paper: OSS-Net: Memory Efficient High Resolution Semantic Segmentation of 3D Medical Data"
+authors:
+  - family-names: Reich
+    given-names: Christoph
+  - family-names: Prangemeier
+    given-names: Tim
+  - family-names: Cetin
+    given-names: Oezdemir
+  - family-names: Koeppl
+    given-names: Heinz
+title: "OSS-Net: Memory Efficient High Resolution Semantic Segmentation of 3D Medical Data"
+version: 1.0.0
+date-released: 2021-10-18
