@@ -1,5 +1,5 @@
 # OSS-Net: Memory Efficient High Resolution Semantic Segmentation of 3D Medical Data
-[![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2106.08285-B31B1B.svg)](arxiv)
+[![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2110.10640-B31B1B.svg)](https://arxiv.org/abs/2110.10640)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChristophReich1996/OSS-Net/blob/master/LICENSE)
 
 **[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/bcs_team/prangemeiertim.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/bcs_team/oezdemircetin.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/bcs_team/koepplheinz.en.jsp)**<br/>
