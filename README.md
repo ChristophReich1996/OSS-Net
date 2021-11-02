@@ -4,7 +4,7 @@
 
 **[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/bcs_team/prangemeiertim.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/bcs_team/oezdemircetin.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/bcs_team/koepplheinz.en.jsp)**<br/>
 
-## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://arxiv.org/abs/2110.10640) | [Poster](https://christophreich1996.github.io/oss_net/) | [Slides](https://christophreich1996.github.io/oss_net/) | [Video](https://christophreich1996.github.io/oss_net/) |
+## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://arxiv.org/abs/2110.10640) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://christophreich1996.github.io/oss_net/) |
 
 <p align="center">
   <img src="github/h.gif"  alt="1" width = 600px height = 150px >
