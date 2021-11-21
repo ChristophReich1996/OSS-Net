@@ -2,9 +2,9 @@
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2110.10640-B31B1B.svg)](https://arxiv.org/abs/2110.10640)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChristophReich1996/OSS-Net/blob/master/LICENSE)
 
-**[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/bcs_team/prangemeiertim.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/bcs_team/oezdemircetin.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/bcs_team/koepplheinz.en.jsp)**<br/>
+**[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp)**<br/>
 
-## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://arxiv.org/abs/2110.10640) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://christophreich1996.github.io/oss_net/) |
+## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) |
 
 <p align="center">
   <img src="github/h.gif"  alt="1" width = 600px height = 150px >
@@ -117,7 +117,7 @@ are saved as PyTorch (.pt) files and also as .obj files. The occupancy grid is o
 
 ## Acknowledgements
 
-We thank [Marius Memmel](https://scholar.google.com/citations?user=X8IAUpUAAAAJ&hl=de&oi=sra) and [Nicolas Wagner](https://github.com/nwWag) for the insightful discussions, Alexander Christ and [Tim Kircher]() for giving feedback on the first draft, and [Markus Baier](https://www.bcs.tu-darmstadt.de/bcs_team/index.en.jsp) as well as [Bastian Alt](https://www.bcs.tu-darmstadt.de/bcs_team/altbastian.en.jsp) for aid with the computational setup.
+We thank [Marius Memmel](https://scholar.google.com/citations?user=X8IAUpUAAAAJ&hl=de&oi=sra) and [Nicolas Wagner](https://github.com/nwWag) for the insightful discussions, Alexander Christ and [Tim Kircher](https://www.linkedin.com/in/tim-kircher-a837a019b/) for giving feedback on the first draft, and [Markus Baier](https://www.bcs.tu-darmstadt.de/team_sos/mitarbeiterliste_sos.en.jsp) as well as [Bastian Alt](https://www.bcs.tu-darmstadt.de/team_sos/altbastian_sos.en.jsp) for aid with the computational setup.
 
 This work was supported by the Landesoffensive für wissenschaftliche Exzellenz as part of the LOEWE Schwerpunkt CompuGene. H.K. acknowledges support from the European Re- search Council (ERC) with the consolidator grant CONSYN (nr. 773196). O.C. is supported by the Alexander von Humboldt Foundation Philipp Schwartz Initiative.
 
