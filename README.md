@@ -4,14 +4,14 @@
 
 **[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp)**<br/>
 
-## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) |
+## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://christophreich1996.github.io/oss_net/) |
 
 <p align="center">
   <img src="github/h.gif"  alt="1" width = 600px height = 150px >
 </p>
   
 <p align="center">
-  This repository includes the <b>official</b> and <b>maintained</b> <a href="https://pytorch.org/">PyTorch</a> implementation of the paper <a href="arxiv"> OSS-Net: Memory Efficient High Resolution Semantic Segmentation of 3D Medical Data</a>.
+  This repository includes the <b>official</b> and <b>maintained</b> <a href="https://pytorch.org/">PyTorch</a> implementation of the paper <a href="https://www.bmvc2021-virtualconference.com/assets/papers/1488.pdf"> OSS-Net: Memory Efficient High Resolution Semantic Segmentation of 3D Medical Data</a>.
 </p>
 
 ## Abstract
