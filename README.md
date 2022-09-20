@@ -2,7 +2,7 @@
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2110.10640-B31B1B.svg)](https://arxiv.org/abs/2110.10640)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChristophReich1996/OSS-Net/blob/master/LICENSE)
 
-**[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp)**<br/>
+**[Christoph Reich](https://github.com/ChristophReich1996), [Tim Prangemeier](https://www.bcs.tu-darmstadt.de/team_sos/prangemeiertim_sos.en.jsp), [Özdemir Cetin](https://www.bcs.tu-darmstadt.de/team_sos/oezdemircetin_sos.en.jsp) & [Heinz Koeppl](https://www.bcs.tu-darmstadt.de/team_sos/koepplheinz_sos.en.jsp)**<br/>
 
 ## | [Project Page](https://christophreich1996.github.io/oss_net/) | [Paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_1488.html) | [Slides](https://christophreich1996.github.io/pdfs/BMVC_Presentation_1488.pdf) | [Video](https://christophreich1996.github.io/oss_net/) |
 
